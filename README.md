@@ -1,8 +1,3 @@
-Name     linux.c
-Author   Sharjeel Akram
-Version  v1.0
-Copyright All rights reserved 
-
 # Desciption
 This is a mini linix shell in C, Ansi-style
 
