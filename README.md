@@ -1,13 +1,10 @@
- =============================================
  Name        : linux.c
  Author      : Sharjeel Akram
  Version     : v1.0
- Copyright   : All rights reserved
- Description : Simple Shell in C, Ansi-style
- =============================================
+ Copyright   : All rights reserved 
 
 # Desciption
-This is a mini linix shell in C
+This is a mini linix shell in C, Ansi-style
 
 # included files
 - linux.c
